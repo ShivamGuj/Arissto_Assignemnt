@@ -1,0 +1,63 @@
+[
+    {
+      "Title": "Advances in Quantum Computing",
+      "Authors": ["Alice Smith", "Bob Johnson"],
+      "Publication_Year": 2023,
+      "Citation": 120
+    },
+    {
+      "Title": "Deep Learning for Image Classification",
+      "Authors": ["Carol Lee", "David Kim"],
+      "Publication_Year": 2022,
+      "Citation": 85
+    },
+    {
+      "Title": "Exploring the Internet of Things",
+      "Authors": ["Eve Davis", "Frank Martin"],
+      "Publication_Year": 2021,
+      "Citation": 98
+    },
+    {
+      "Title": "Machine Learning Algorithms: A Review",
+      "Authors": ["Grace White", "Hank Lewis"],
+      "Publication_Year": 2020,
+      "Citation": 150
+    },
+    {
+      "Title": "Neural Networks for Natural Language Processing",
+      "Authors": ["Ivy Thompson", "Jack Harris"],
+      "Publication_Year": 2023,
+      "Citation": 75
+    },
+    {
+      "Title": "Data Privacy and Security in Cloud Computing",
+      "Authors": ["Karen Walker", "Leo Robinson"],
+      "Publication_Year": 2019,
+      "Citation": 110
+    },
+    {
+      "Title": "Blockchain Technology and Applications",
+      "Authors": ["Mona Adams", "Nate Clark"],
+      "Publication_Year": 2022,
+      "Citation": 95
+    },
+    {
+      "Title": "Robotic Process Automation in Industry",
+      "Authors": ["Olivia Evans", "Paul Wright"],
+      "Publication_Year": 2021,
+      "Citation": 80
+    },
+    {
+      "Title": "Ethical Implications of AI Systems",
+      "Authors": ["Quinn Turner", "Rachel Scott"],
+      "Publication_Year": 2020,
+      "Citation": 102
+    },
+    {
+      "Title": "Augmented Reality for Education",
+      "Authors": ["Steve Hill", "Tina Young"],
+      "Publication_Year": 2023,
+      "Citation": 65
+    }
+  ]
+  
