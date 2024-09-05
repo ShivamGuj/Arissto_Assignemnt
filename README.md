@@ -17,4 +17,5 @@
 ### npm start
 ### It will run on port 3000.
 
+## (Data is in Public Folder as data.json)
 ## I hope you like it!
