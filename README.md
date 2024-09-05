@@ -15,5 +15,6 @@
 ### cd frontend
 ### npm install 
 ### npm start
+### It will run on port 3000.
 
 ## I hope you like it!
